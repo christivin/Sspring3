@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://E:/SpringMVC学习/day02/资料/02-spring的aop/aopalliance-1.0.jar!/" />
+      <root url="jar://E:/SpringMVC学习/day02/资料/02-spring的aop/aspectjweaver-1.8.7.jar!/" />
+      <root url="jar://E:/SpringMVC学习/day02/资料/02-spring的aop/spring-aop-4.2.4.RELEASE.jar!/" />
+      <root url="jar://E:/SpringMVC学习/day02/资料/02-spring的aop/spring-aspects-4.2.4.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
